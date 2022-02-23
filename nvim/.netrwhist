@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/heflerdev/orulo/.react/src/themes/common'
+let g:netrw_dirhist_2='/home/heflerdev/orulo/.react/src/themes'
+let g:netrw_dirhist_1='/home/heflerdev/orulo/.react/src'
+let g:netrw_dirhist_0='/home/heflerdev/orulo/.react/src/components'
+let g:netrw_dirhist_9='/home/heflerdev/orulo/.react/src/components/dashboard'
+let g:netrw_dirhist_8='/home/heflerdev/orulo/.react/src/components'
+let g:netrw_dirhist_7='/home/heflerdev/orulo/.react/src'
+let g:netrw_dirhist_6='/home/heflerdev/orulo/.react/src/components'
+let g:netrw_dirhist_5='/home/heflerdev/orulo/.react/src/components/customers'
+let g:netrw_dirhist_4='/home/heflerdev/orulo/.react/src/components'
